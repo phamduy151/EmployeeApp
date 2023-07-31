@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "Pham",
+      "lastname": "Duy",
+      "dob": "2023-07-02T17:00:00.000Z",
+      "gender": "male",
+      "company": "ITSS",
+      "education": "Graduate",
+      "experience": 1,
+      "salary": 100000,
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "Thanh",
+      "lastname": "Bao",
+      "dob": "2023-07-04T17:00:00.000Z",
+      "gender": "female",
+      "company": "ITSS",
+      "education": "Intermediate",
+      "experience": 12,
+      "salary": 100011,
+      "email": "test1@gmail.com",
+      "id": 2
+    },
+    {
+      "firstname": "Hoang",
+      "lastname": "Trung",
+      "dob": "2023-07-05T17:00:00.000Z",
+      "gender": "Others",
+      "company": "ITSS",
+      "education": "Graduate",
+      "experience": 1,
+      "salary": 10000,
+      "email": "test2@gmail.com",
+      "id": 3
+    }
+  ]
+}
